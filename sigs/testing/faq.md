@@ -323,4 +323,3 @@ We don't have more to announce at this stage. However:
 **What about XLA?**
 
 XLA is an important area for investment for us, and continues to be a great place for our partners to contribute to TensorFlow.  These projects are developed by the same team, and are closely aligned in the long term.
-'
